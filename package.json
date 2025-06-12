@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "form-data": "^4.0.3",
+    "javascript-obfuscator": "^4.1.1",
+    "level": "^10.0.0",
+    "mime-db": "^1.54.0",
+    "uwebsockets": "^3.0.2"
+  }
+}
